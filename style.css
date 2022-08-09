@@ -1,0 +1,34 @@
+.temp {
+    border-radius: 10px;
+    background-color: #012443; 
+    color: rgb(211, 211, 211); 
+    display: inline-block; 
+    padding: 5px 8px;
+}
+
+body {
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    height: 100vh; 
+    overflow-y: hidden;
+}
+
+.footer {
+    width: 100%;
+    height: 70px;
+    background-color: #012443;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 8px;
+}
+
+.footer h6 {
+    font-weight: 200;
+}
+
+.footer span {
+    color: crimson;
+}
